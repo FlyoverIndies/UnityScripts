@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Flyover Indies Code of Conduct
 
 ## Our Pledge
 
